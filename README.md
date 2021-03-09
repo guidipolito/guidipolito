@@ -1,7 +1,11 @@
 ## Olá meu nome é Guilherme D'Ipolito 👋
-![codewars](https://www.codewars.com/users/guidipolito/badges/small)
+<p align="center">
+<img src="gif/banner.gif" width="75%" />
+</p>
+
+![codewars](https://www.codewars.com/users/guidipolito/badges/small)   <a href="mailto:guilherme.dipolito@fatec.sp.gov.br"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width="155px" /></a> 
 - 🌱 Atualmente estou aprendendo quanto a Lavarel e apronfundando em PHP por conta própria.
-- 📖 Cursando Analise e Desenvolvimento de sistemas na Fatec, formado em tecnico em informatica pela Etec.
+- 📖 Cursando Analise e Desenvolvimento de Sistemas na Fatec, formado em tecnico em informatica pela Etec.
 <!--
 **guidipolito/guidipolito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
