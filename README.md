@@ -1,5 +1,7 @@
-### Olá 👋
-
+## Olá meu nome é Guilherme D'Ipolito 👋
+![codewars](https://www.codewars.com/users/guidipolito/badges/small)
+- 🌱 Atualmente estou aprendendo quanto a Lavarel e apronfundando em PHP por conta própria.
+- 📖 Cursando Analise e Desenvolvimento de sistemas na Fatec, formado em tecnico em informatica pela Etec.
 <!--
 **guidipolito/guidipolito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
