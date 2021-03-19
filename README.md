@@ -3,7 +3,7 @@
 <img src="gif/banner.gif" width="75%" />
 </p>
 
-![codewars](https://www.codewars.com/users/guidipolito/badges/small)   <a href="mailto:guilherme.dipolito@fatec.sp.gov.br"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width="155px" /></a> 
+[![codewars](https://www.codewars.com/users/guidipolito/badges/small)](https://www.codewars.com/users/guidipolito)   <a href="mailto:guilherme.dipolito@fatec.sp.gov.br"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width="155px" /></a> 
 - 🌱 Atualmente estou aprendendo Laravel e apronfundando em PHP por conta própria.
 - 📖 Cursando Analise e Desenvolvimento de Sistemas na Fatec, formado em tecnico em informatica pela Etec.
 <!--
