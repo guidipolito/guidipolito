@@ -4,8 +4,7 @@
 </p>
 
 [![codewars](https://www.codewars.com/users/guidipolito/badges/small)](https://www.codewars.com/users/guidipolito)   <a href="mailto:guilherme.dipolito@fatec.sp.gov.br"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width="155px" /></a> 
-- 🌱 Aprimorando no front end e em estágio
-- 📖 Cursando Analise e Desenvolvimento de Sistemas na Fatec, formado em tecnico em informatica pela Etec.
+
 <!--
 **guidipolito/guidipolito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
