@@ -1,10 +1,15 @@
-## Olá meu nome é Guilherme D'Ipolito 👋
-<p align="center">
+# Hello, I'm Guilherme D'Ipolito 👋
+
 <img src="gif/banner.gif" width="75%" />
-</p>
 
-[![codewars](https://www.codewars.com/users/guidipolito/badges/small)](https://www.codewars.com/users/guidipolito)   <a href="mailto:guilherme.dipolito@fatec.sp.gov.br"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width="155px" /></a> 
 
+[![codewars](https://www.codewars.com/users/guidipolito/badges/small)](https://www.codewars.com/users/guidipolito)   
+<a href="mailto:guilhermepereiradipolito@hotmail.com">
+  <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width="155px" />
+</a>
+<a href="https://www.linkedin.com/in/guilherme-pereira-d-ipolito-a529381a5/" target="_BLANK">
+  <img alt="Outlook" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90px" />
+</a>
 <!--
 **guidipolito/guidipolito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
